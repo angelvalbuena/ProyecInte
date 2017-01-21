@@ -143,7 +143,7 @@
  						<username>tomcat</username>
  						<password>tomcatuser</password>
  						<update>true</update>
-                         <path>/cloudBRT</path>
+                         <path></path>
                     </configuration>
                  </plugin>
 				<plugin>
