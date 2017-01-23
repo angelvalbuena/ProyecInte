@@ -140,9 +140,7 @@
                      <configuration>
                          <url>http://172.17.0.2:8080/manager/text</url>
                          <server>TomcatServer</server>
- 						<username>tomcat</username>
- 						<password>tomcatuser</password>
- 						<update>true</update>
+ 						
                          <path>/cloudBRT</path>
                     </configuration>
                  </plugin>
